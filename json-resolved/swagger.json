@@ -1,0 +1,13 @@
+{
+  "swagger" : "2.0",
+  "info" : {
+    "description" : "testing fork",
+    "version" : "1",
+    "title" : "Fork-Test"
+  },
+  "host" : "virtserver.swaggerhub.com",
+  "basePath" : "/jenfox/Fork-Test/1",
+  "schemes" : [ "https" ],
+  "paths" : { },
+  "definitions" : { }
+}
